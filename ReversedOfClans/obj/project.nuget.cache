@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FxoKozn8VNg=",
+  "success": true,
+  "projectFilePath": "/home/pmdrk/Documents/Source/ReversedOfClans/ReversedOfClans.csproj",
+  "expectedPackageFiles": [
+    "/home/pmdrk/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

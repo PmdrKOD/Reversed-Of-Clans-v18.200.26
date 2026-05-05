@@ -1,0 +1,14 @@
+/home/pmdrk/Documents/Source/ReversedOfClans/bin/Debug/net10.0/ReversedOfClans
+/home/pmdrk/Documents/Source/ReversedOfClans/bin/Debug/net10.0/ReversedOfClans.deps.json
+/home/pmdrk/Documents/Source/ReversedOfClans/bin/Debug/net10.0/ReversedOfClans.runtimeconfig.json
+/home/pmdrk/Documents/Source/ReversedOfClans/bin/Debug/net10.0/ReversedOfClans.dll
+/home/pmdrk/Documents/Source/ReversedOfClans/bin/Debug/net10.0/ReversedOfClans.pdb
+/home/pmdrk/Documents/Source/ReversedOfClans/obj/Debug/net10.0/ReversedOfClans.GeneratedMSBuildEditorConfig.editorconfig
+/home/pmdrk/Documents/Source/ReversedOfClans/obj/Debug/net10.0/ReversedOfClans.AssemblyInfoInputs.cache
+/home/pmdrk/Documents/Source/ReversedOfClans/obj/Debug/net10.0/ReversedOfClans.AssemblyInfo.cs
+/home/pmdrk/Documents/Source/ReversedOfClans/obj/Debug/net10.0/ReversedOfClans.csproj.CoreCompileInputs.cache
+/home/pmdrk/Documents/Source/ReversedOfClans/obj/Debug/net10.0/ReversedOfClans.dll
+/home/pmdrk/Documents/Source/ReversedOfClans/obj/Debug/net10.0/refint/ReversedOfClans.dll
+/home/pmdrk/Documents/Source/ReversedOfClans/obj/Debug/net10.0/ReversedOfClans.pdb
+/home/pmdrk/Documents/Source/ReversedOfClans/obj/Debug/net10.0/ReversedOfClans.genruntimeconfig.cache
+/home/pmdrk/Documents/Source/ReversedOfClans/obj/Debug/net10.0/ref/ReversedOfClans.dll
