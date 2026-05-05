@@ -7,7 +7,8 @@
 
 
 ## ✨ Клиент
-клиент вы можете скачать отсюдого
+клиента я своего не делал а брал у clashOfMagic
+скачать мною пропатченный клиент можно [здесь](https://drive.google.com/file/d/1dv1lRK0wgocFfaAocDMlvuuY75f4OaBm/view?usp=drivesdk)
 
 ## туториал как поменять айпи и порт
     1.зайдите в arm64-v8/libs.so
